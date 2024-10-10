@@ -172,6 +172,3 @@ For any inquiries or feedback regarding **Pusheen Lore**, please feel free to re
 
 We would love to hear from you! 🐱✨
 
----
-
-The Table of Contents is now restored, making your README easier to navigate. Let me know if there are any additional changes or enhancements you'd like to make!
